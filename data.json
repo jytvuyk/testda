@@ -1167,11 +1167,7 @@
   ], 
 
   [
-    {
-      "id": 17,
-      "img": "https://i.ibb.co/CPmfdnY/1-2.jpg"
-    },
-    {
+        {
       "id": 17,
       "img": "https://kingofshojo.com/wp-content/uploads/manga/solo-leveling-ragnarok/17/02.jpg"
     },
@@ -1270,10 +1266,6 @@
     {
       "id": 17,
       "img": "https://kingofshojo.com/wp-content/uploads/manga/solo-leveling-ragnarok/17/26.jpg"
-    },
-    {
-      "id": 17,
-      "img": "https://i.ibb.co/LdNPKBJ/2-2.jpg"
     }
   ]
 
